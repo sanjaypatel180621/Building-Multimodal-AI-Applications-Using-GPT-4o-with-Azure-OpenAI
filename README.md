@@ -29,6 +29,21 @@ By integrating AI services with application code, users can explore how multimod
 
 ---
 
+## Objectives
+
+By completing this use case, participants will be able to:
+
+- Understand the lab environment, credentials, and Azure resources required for AI development  
+- Register required Azure resource providers and configure the necessary cloud services  
+- Create and configure an Azure OpenAI resource within **Azure AI Foundry**  
+- Deploy and manage AI model deployments for multimodal AI workloads  
+- Configure a development environment using **Visual Studio Code**, **Python**, and **Jupyter notebooks**  
+- Execute Python scripts to interact with the deployed AI model using API calls  
+- Analyze images using multimodal capabilities and generate AI-driven responses  
+- Integrate AI functionality into a simple web application workflow  
+
+---
+
 ## Getting Started
 
 1. Clone this repository:
